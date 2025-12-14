@@ -16,4 +16,4 @@ Input & Output (I/O)
 
 Conditional Statements if, else if, switch
 
-Loops for, while
+Loops for, while.
